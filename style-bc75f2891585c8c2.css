@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+}
+
+div {
+  margin-top: 16px;
+  text-align: center;
+  color: white;
+}
+
+p {
+  font-size: 4em;
+  height: 40vh;
+}
+
+button {
+  width: 50%;
+  height: 40vh;
+  font-size: 4em;
+  color: black;
+  text-align: center;
+  background-color: #ddd;
+  border-width: 8px;
+}
