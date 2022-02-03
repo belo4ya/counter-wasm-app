@@ -1,5 +1,5 @@
 [package]
-name = "incrementor-wasm"
+name = "counter-wasm-app"
 version = "0.1.0"
 edition = "2021"
 
